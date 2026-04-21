@@ -1,6 +1,6 @@
 # All Restaurants in El Monte, California, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `889845` |
 | Location | El Monte |
 | Category | Restaurants |
-| Full dataset size | 180 records |
-| Free sample size | 18 records (10.0%) |
-| Last export | 2026-04-14T12:54:59.757555+00:00 |
+| Full dataset size | 175 records |
+| Free sample size | 17 records (9.71%) |
+| Last export | 2026-04-21T13:42:53.419560+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-el-monte-california-us-sample-889845/releases/download/sample-latest/beamstation_889845_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
