@@ -1,12 +1,12 @@
 {
-  "export_job_id": "200e079b-d146-45a5-90bd-8c8b84dd857b",
+  "export_job_id": "00a5bd6d-53dd-4bf8-b18b-e9fc255b0e0a",
   "id_short": 889845,
-  "published_at": "2026-04-21T19:56:05Z",
+  "published_at": "2026-04-28T19:58:31Z",
   "repo_name": "all-restaurants-in-el-monte-california-us-sample-889845",
   "sample_asset_name": "beamstation_889845_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/889845/beamstation_889845_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "f9583078333dd41df9464808e279f0e23c24fbb82d9ae5048a6a917c239975f8",
-  "sample_size_bytes": 72551,
-  "total_records": 175
+  "sample_records": 12,
+  "sample_sha256": "60265362de6ab061018c9714dd4e10ef0d5e4bbcc3d9a321bde42ecff8b3cbba",
+  "sample_size_bytes": 55269,
+  "total_records": 129
 }
